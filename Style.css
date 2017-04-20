@@ -5,8 +5,8 @@ header{
 }
 div {
     display: block;
-    width:1000px;
-    height: 300px;
+    width:500px;
+    height: 250px;
 }
 
 .pictures{
@@ -37,7 +37,7 @@ section{
 }
 
 a{
-  background-color:#fff;
+  background-color:#0000;
   width:400px;
   height: inherit;
   margin: 0 auto;
@@ -82,3 +82,5 @@ a{
   height: inherit;
   margin: 0 auto;
 }
+let thing1 = doc.getElementsByName('V6.10.2
+Recommoned from most user');
